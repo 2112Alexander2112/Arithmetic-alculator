@@ -1,0 +1,7 @@
+E:\C#\ArithmeticСalculator\ArithmeticСalculator\bin\Debug\ArithmeticСalculator.exe.config
+E:\C#\ArithmeticСalculator\ArithmeticСalculator\bin\Debug\ArithmeticСalculator.exe
+E:\C#\ArithmeticСalculator\ArithmeticСalculator\bin\Debug\ArithmeticСalculator.pdb
+E:\C#\ArithmeticСalculator\ArithmeticСalculator\obj\Debug\ArithmeticСalculator.csproj.AssemblyReference.cache
+E:\C#\ArithmeticСalculator\ArithmeticСalculator\obj\Debug\ArithmeticСalculator.csproj.CoreCompileInputs.cache
+E:\C#\ArithmeticСalculator\ArithmeticСalculator\obj\Debug\ArithmeticСalculator.exe
+E:\C#\ArithmeticСalculator\ArithmeticСalculator\obj\Debug\ArithmeticСalculator.pdb
